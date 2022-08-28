@@ -8,9 +8,9 @@
 .container {
   width: 100%;
   height: 100vh;
-  background-image: url(/img/fondo.jpg);
+  background-image: url(img/fondo.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 1) rgba(0, 0, 0, 1)),
-    url(/img/fondo.jpg);
+    url(img/fondo.jpg);
   background-position: center;
   background-size: cover;
   background-position: bottom;
@@ -87,19 +87,19 @@ p {
 }
 
 .variedad1 {
-  background-image: url(/img/capuccino.jpg);
+  background-image: url(img/capuccino.jpg);
 }
 
 .variedad2 {
-  background-image: url(/img/espresso.jpg);
+  background-image: url(img/espresso.jpg);
 }
 
 .variedad3 {
-  background-image: url(/img/lungo.jpg);
+  background-image: url(img/lungo.jpg);
 }
 
 .variedad4 {
-  background-image: url(/img/lungoxl.jpg);
+  background-image: url(img/lungoxl.jpg);
 }
 
 h5 {
